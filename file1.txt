@@ -3,6 +3,6 @@ Informatics
 2028
 
 Fav Movie: Spirited Away
-Fav Resturant: Rock N Noodles
+Fav Restaurant: Rock N Noodles
 
 Oil painting
