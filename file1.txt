@@ -6,3 +6,5 @@ Fav Movie: Spirited Away
 Fav Restaurant: Rock N Noodles
 
 Oil painting
+
+git log --oneline --graph --all
