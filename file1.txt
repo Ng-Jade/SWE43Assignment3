@@ -7,4 +7,4 @@ Fav Restaurant: Rock N Noodles
 
 Oil painting
 
-git log --oneline --graph --all
+I want to learn how to manage my time better and have a better mental health.
